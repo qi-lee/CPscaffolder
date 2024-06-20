@@ -1,7 +1,7 @@
 # CPscaffolder
 
 
-## Basic usage : perl CPscaffolder.pl -i contigs -r PacBioReads [-options]
+### Basic usage : perl CPscaffolder.pl -i contigs -r PacBioReads [-options]
 
 ###  Example : 
        1. $ perl CPscaffolder.pl -i contigs.fasta -r pacbioreads.bas.h5

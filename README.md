@@ -5,7 +5,7 @@
 
 ###  Example : 
        1. $ perl CPscaffolder.pl -i contigs.fasta -r pacbioreads.bas.h5
-      2. $ perl CPscaffolder.pl -i contigs.fasta -b dir/blasr.m5 
+       2. $ perl CPscaffolder.pl -i contigs.fasta -b dir/blasr.m5 
        3. $ perl CPscaffolder.pl -i contigs.fasta -r pacbioreads.fastq -o scaffolds.fasta
        4. $ perl CPscaffolder.pl -i contigs.fasta -r pacbioreads.fastq -t 24 -g T 
        5. $ perl dir/CPscaffolder.pl -i dir/contigs.fa -r dir/pacbioreads.fq -c dir/config.ini 
